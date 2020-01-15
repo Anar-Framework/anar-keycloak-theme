@@ -22,4 +22,4 @@ Refer to to **Wiki** section of this repository. https://github.com/Anar-Framewo
 
 1. cd to keycloak/themes directory
 2. git clone or wget and untar this repo, renaming the directory to anar-keycloak-theme
-3. Rename the directory name
+3. Rename the directory name to Anar
